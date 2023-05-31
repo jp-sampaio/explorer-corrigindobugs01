@@ -1,5 +1,5 @@
 <p>
-  <img href="./images/tumb.png" alt="Imagem do projeto">
+  <img src="./images/tumb.png" alt="Imagem do projeto" width="100%">
 </p>
 
 ## 🖥️ Projeto

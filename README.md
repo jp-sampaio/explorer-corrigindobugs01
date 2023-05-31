@@ -1,2 +1,18 @@
-# explorer-corrigindobugs01
- O desafio é corrigir o código que está bagunçado, e deixar como era originalmente.
+<p>
+  <img href="./images/tumb.png" alt="Imagem do projeto">
+</p>
+
+## 🖥️ Projeto
+Esse projeto foi proposto em uma desafio para resolver os bugs presentes no código, onde tinham tags fora de posição valores alterados tanto no HTML quanto no CSS.
+
+## 🚀 Tecnologias
+Foi desenvolvido esse projeto no programa Explorer da Rocketseat no stage 02.
+
+- HTML
+- CSS
+- GITHUB
+
+## 👁 View
+Aqui você pode visualizar o layout do projeto
+<a 
+  href="https://www.figma.com/file/eOa762zuNUD2DQ9fUKVVMK/Explorer---Projeto-01-(Copy)?type=design&node-id=0%3A1&t=GRDOWStd5cUjNWtw-1" target="_blank">clique aqui</a>
